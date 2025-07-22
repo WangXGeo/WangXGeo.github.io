@@ -17,7 +17,7 @@
 
 #### Published
 
-- <strong>X. Wang</strong>, L. Zhou*, D. López-Carr, Y. Song, H. Gao, T. Che, Z. Liu, and W. Wei (2025). Urban Grey-Green Scales: A New Perspective for Assessing Dynamic Spatial Trade-Offs. <strong>International Journal of Applied Earth Observation and Geoinformation</strong>. [[Paper]](https://doi.org/10.1016/j.jag.2024.104708)
+- <strong>X. Wang</strong>, L. Zhou*, D. López-Carr, Y. Song, H. Gao, T. Che, Z. Liu, and W. Wei (2025). Urban Grey-Green Scales: A New Perspective for Assessing Dynamic Spatial Trade-Offs. <strong>International Journal of Applied Earth Observation and Geoinformation</strong>. [[Paper]](https://doi.org/10.1016/j.jag.2025.104708)
 
 - L. Zhou*, <strong>X. Wang</strong>, D. López-Carr, Z. Wang, B. Wang, F. Gao, and W. Wei (2024). The World Cup Reshaped the Urban Green Space Pattern of Qatar. <strong>Ecological Informatics</strong>.  [[Paper]](https://doi.org/10.1016/j.ecoinf.2024.102551)
 
