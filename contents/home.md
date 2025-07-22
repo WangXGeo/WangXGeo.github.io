@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Xi Wang](https://www.researchgate.net/profile/Xi-Wang-232)](https://www.researchgate.net/profile/Xi-Wang-232)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
-
+He is currently a PhD student at the School of Surveying, Mapping and Geoinformation, Lanzhou Jiaotong University.
+He has been awarded a CSC grant and is in the process of finding a suitable opportunity to visit and undertake a 1 year visit.
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 1323004@stu.edu.lzjtu.cn/ wangxilzjtu@gmail.com
+
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E.,Urban Geography, Urban Planning, Lanzhou Jiaotong University, 2021—2022.\
+Ph.D., GIS & RS, Lanzhou Jiaotong University, 2023—.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Urban grey-green infrastructure; Urban Forestry; Urban 2D/ 3D spatial patterns and their environmental benefits
 
