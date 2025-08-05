@@ -6,7 +6,7 @@ He is currently a PhD student at the School of Surveying, Mapping and Geoinforma
 He has been awarded by CSC grant and is in the process of finding a suitable opportunity to visit and undertake a 1 year visit.
 #### Contact
 
-Email: 1323004@stu.lzjtu.edu.cn/ wangxilzjtu@gmail.com
+Email: 13230094@stu.lzjtu.edu.cn/ wangxilzjtu@gmail.com
 
 
 #### Education
