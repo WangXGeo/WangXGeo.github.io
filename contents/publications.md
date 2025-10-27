@@ -1,37 +1,37 @@
 #### Submitted
 
-- <strong>X. Wang</strong>, L. Zhou*, and Yongze Song (2025). Dramatic 2D/3D Differences in Urban Grey-Green Space Configurations Proportion and the Nonlinear Effects of the Thermal Environment. <strong>GIScience & Remote Sensing</strong>. (SCI Q1 Top IF: 7.3, Minor Revison) [[Code]](https://zenodo.org/records/16086158)
+- Lyu R.; Zhou L*.; … <strong>Wang X</strong>., 2025. How to optimize urban 3D morphology to enhance cooling spillover effect from urban green space: Insights from Bayesian network. <strong>Urban Climate</strong> (SCI Q1 IF: 6.0 Under Review)
 
-- W. Huo, <strong>L. Zhou</strong>*, and <strong>X. Wang</strong> (2025). In-Depth Survey and Comprehensive Evaluation of the Human Settlement of Urban Villages in a Mountainous Western City of China. <strong>Habitat International</strong>. (SSCI Q1 Top IF: 6.8, Accepted)
+- Zhang Z.; Zhou L*.; … <strong>Wang X</strong>., 2025. A Novel Green Visibility Angle Index for Simulating Urban Green View Index and Assessing Residents' Green Access Equity. <strong>Landscape and Urban Planning</strong> (SCI Q1 IF: 7.9 With Editor)
 
-- R. Lyu, <strong>L. Zhou</strong>*, and <strong>X. Wang</strong> (2025). Optimization of Urban Cooling Network Based on Actual Flow of Cooling Service Provided by Urban Green Space from a 3D Perspective. <strong>Urban Forest & Urban Greening</strong>. (SCI Q1 Top IF: 6.8, Major Revise)
+- Yin H.; Zhou L*.; … <strong>Wang X</strong>., 2025. Modeling block-scale urban vitality: integrating residents' perceptions and service facility accessibility. <strong>Cities</strong> (SSCI Q1 IF: 6.0 With Editor)
 
-- R. Lyu, <strong>L. Zhou</strong>*, and <strong>X. Wang</strong> (2025). How to Optimize Urban 3D Morphology to Enhance Cooling Spillover Effect from Urban Green Space: Insights from Bayesian Network. <strong>Urban Climate</strong>. (SCI Q1 IF: 6.0, Under Review)
+- Chen H.; <strong>Wang X*</strong>*.; Yang B.; Wang S., 2025. Do informal settlements contribute to differences in spatial structure and thermal regimes in urban blocks? <strong>Chinese Geographical Science</strong> (SCI Q2 IF: 3.1 Under Review)
 
-- Z. Zhang, <strong>L. Zhou</strong>*, and <strong>X. Wang</strong> (2025). A Novel Green Visibility Angle Index for Simulating Urban Green View Index and Assessing Residents' Green Access Equity. <strong>Landscape and Urban Planning</strong>. (SCI Q1 IF: 7.9, With Editor)
-
-- H. Yin, <strong>L. Zhou</strong>*, and <strong>X. Wang</strong> (2025). Modeling Block-Scale Urban Vitality: Integrating Residents' Perceptions and Service Facility Accessibility. <strong>Cities</strong>. (SSCI Q1 IF: 6.0, With Editor)
-
-- <strong>X. Wang</strong>, L. Zhou, and D. López-Carr (2025). Do Informal Settlements Contribute to Differences in Spatial Structure and Thermal Regimes in Urban Blocks? <strong>Sustainable Cities and Society</strong>. (SCI Q1 Top IF: 12.0, Prepare to Contribute)
+- Wang R.; Zhou L*.; … <strong>Wang X</strong>., 2025. From Flat to Rugged: Systematic Transitions in Land Surface Temperature Drivers of Mountain Cities. <strong>Sustainable Cities and Society</strong> (SCI Q1 Top IF: 12.0 Under Review)
 
 
 #### Published
 
-- <strong>X. Wang</strong>, L. Zhou*, D. López-Carr, Y. Song, H. Gao, T. Che, Z. Liu, and W. Wei (2025). Urban Grey-Green Scales: A New Perspective for Assessing Dynamic Spatial Trade-Offs. <strong>International Journal of Applied Earth Observation and Geoinformation</strong>. [[Paper]](https://doi.org/10.1016/j.jag.2025.104708)
+- <strong>Wang X</strong>., Zhou L*., López-Carr D., Song Y., Gao H., Che T., Liu Z., Wei W., 2025. Urban grey-green scales: A new perspective for assessing dynamic spatial trade-offs. <strong>International Journal of Applied Earth Observation and Geoinformation</strong> 142, 104708. (SCI Q1 Top IF: 8.6)[[Paper]](https://doi.org/10.1016/j.jag.2025.104708)
 
-- L. Zhou*, <strong>X. Wang</strong>, D. López-Carr, Z. Wang, B. Wang, F. Gao, and W. Wei (2024). The World Cup Reshaped the Urban Green Space Pattern of Qatar. <strong>Ecological Informatics</strong>.  [[Paper]](https://doi.org/10.1016/j.ecoinf.2024.102551)
+- <strong>Wang X</strong>., Zhou L., Song Y., López-Carr D., Wang S., Chen H., Gao H., Lyu R., Sun Q., Guo Z., Wei W., 2025. Beyond flat cities: dramatic 2D/3D differences in urban gray–green space configurations and the nonlinear thermal regulation mechanisms. <strong>GIScience & Remote Sensing</strong> 62(1), 2572174. (SCI Q1 Top IF: 7.3)[[Paper]](https://doi.org/10.1080/15481603.2025.2572174)
 
-- <strong>X. Wang</strong>, D. López-Carr*, and L. Zhou* (2024). Combined Effects of Forest Conservation and Population Resettlement on the Ecological Restoration of Qilian Mountain National Park. <strong>Land</strong>, 13, 1983. [[Paper]](https://doi.org/10.3390/land13121983)
+- <strong>Wang X</strong>.; Zhou L*., 2023. Spatial–temporal evolution characteristics of urban green space in typical mountainous cities of Northwest China: A case study in Lanzhou. <strong>Journal of Arid Land Resources and Environment</strong> 37(01), 106–112. (CSCD/CSSCI IF: 4.2)
 
-- <strong>X. Wang</strong> and L. Zhou* (2023). Spatial–Temporal Evolution Characteristics of Urban Green Space in Typical Mountainous Cities of Northwest China: A Case Study in Lanzhou. <strong>Journal of Arid Land Resources and Environment</strong>, 37(01), 106–112. 
+- Zhou L*.; <strong>Wang X</strong>.; López-Carr D.; Wang Z.; Wang B.; Gao F.; Wei W., 2024. The World Cup reshaped the urban green space pattern of Qatar. <strong>Ecological Informatics</strong> 81, 102551. (SCI Q1 IF: 7.3)[[Paper]](https://doi.org/10.1016/j.ecoinf.2024.102551)
 
-- Z. Chen, H. Chen*, M. Yang, <strong>X. Wang</strong>, Y. Jiang, and W. Zhang (2023). Heterogeneity and Optimization of Ecological Security Pattern on a Mountain Town: A Case of Tianzhu County in the Hexi Corridor, China. <strong>Frontiers in Environmental Science</strong>, 10, 1106379. [[Paper]](https://doi.org/10.3389/fenvs.2022.1106379)
+- <strong>Wang X</strong>.; Lopez-Carr D*.; Zhou L*., 2024. Combined Effects of Forest Conservation and Population Resettlement on the Ecological Restoration of Qilian Mountain National Park. <strong>Land</strong> 13, 1983. (SCI Q2 IF: 3.4)[[Paper]](https://doi.org/10.3390/land13121983)
 
-- H. Gao, Y. Dong, <strong>L. Zhou</strong>*, and <strong>X. Wang</strong> (2024). Exploring the Influence of Terrain Blockage on Spatiotemporal Variations in Land Surface Temperature from the Perspective of Heat Energy Redistribution. <strong>ISPRS International Journal of Geo-Information</strong>, 13, 200. [[Paper]](https://doi.org/10.3390/ijgi13020200)
+- Huo W., Zhou L., Wang Z., Wang B., Gao F., <strong>Wang X</strong>., Chen Z., 2025. The human settlement of urban villages in a mountainous city of China: in-depth survey, comprehensive evaluation and policy implications. <strong>Habitat International</strong> 166, 103601. (SSCI Q1 Top IF: 7.0)[[Paper]](https://doi.org/https://doi.org/10.1016/j.habitatint.2025.103601)
 
-- H. Gao, Y. Dong, <strong>L. Zhou</strong>*, and <strong>X. Wang</strong> (2025). Identifying Critical Road Sections Using the Weighted Periodicity Mined from Trajectory Data for Efficient Urban Transportation. <strong>GIScience & Remote Sensing</strong>, 62, 1. [[Paper]](https://doi.org/10.1080/15481603.2024.2448251)
+- Lyu R., Zhou L., Guo Z., Sun Q., Gao H., <strong>Wang X</strong>., 2025. Optimization of urban cooling network informed by actual flow of cooling service provided by urban green space from a 3D perspective. <strong>Urban Forestry & Urban Greening</strong> 113, 129109. (SCI Q1 IF: 6.7)[[Paper]](https://doi.org/https://doi.org/10.1016/j.ufug.2025.129109)
 
-- J. Lan, Z. Chai*, X. Tang, and <strong>X. Wang</strong> (2023). Landscape Ecological Risk Assessment and Driving Force Analysis of the Heihe River Basin in the Zhangye Area of China. <strong>Water</strong>, 15, 3588. [[Paper]](https://doi.org/10.3390/w15143588)
+- Chen Z., Chen H*., Yang M., <strong>Wang X</strong>., Jiang Y., Zhang W., 2023. Heterogeneity and optimization of ecological security pattern on a mountain town: A case of Tianzhu County in the Hexi Corridor, China. <strong>Frontiers in Environmental Science</strong> 10, 1106379. (SCI Q2 IF: 5.4)[[Paper]](https://doi.org/10.3389/fenvs.2022.1106379)
 
+- Gao H., Dong Y., Zhou L*., <strong>Wang X</strong>., 2024. Exploring the influence of terrain blockage on spatiotemporal variations in land surface temperature from the perspective of heat energy redistribution. <strong>ISPRS International Journal of Geo-Information</strong> 13, 200. (SCI Q1 IF: 2.8)[[Paper]](https://doi.org/10.3390/ijgi13020200)
 
+- Gao H., Dong Y., Zhou L*., <strong>Wang X</strong>., 2025. Identifying critical road sections using the weighted periodicity mined from trajectory data for efficient urban transportation. <strong>GIScience & Remote Sensing</strong> 62, 1. (SCI Q1 Top IF: 7.3)[[Paper]](https://doi.org/10.1080/15481603.2024.2448251)
+
+- Lan J., Chai Z*., Tang X., <strong>Wang X</strong>., 2023. Landscape ecological risk assessment and driving force analysis of the Heihe River Basin in the Zhangye Area of China. <strong>Water</strong> 15, 3588. (SCI Q2 IF: 3.3)[[Paper]](https://doi.org/10.3390/w15143588)
 
