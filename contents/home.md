@@ -11,7 +11,7 @@ Email: 13230094@stu.lzjtu.edu.cn/ wangxilzjtu@gmail.com
 
 #### Education
 Master of Science.,Urban Geography, Urban Planning, Lanzhou Jiaotong University, 2021—2022.\
-Doctor of Engineering., GIS & RS, Lanzhou Jiaotong University, 2023—now.
+Doctor of Engineering., GIS & RS, Lanzhou Jiaotong University, 2023—now.\
 Joint Doctoral Program., GIS & RS, National University of Singapore, 2025.12—2026.12
 
 #### Research Interests

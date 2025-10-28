@@ -6,7 +6,7 @@
 
 - Yin H.; Zhou L*.; … <strong>Wang X</strong>., 2025. Modeling block-scale urban vitality: integrating residents' perceptions and service facility accessibility. <strong>Cities</strong> (SSCI Q1 IF: 6.0 With Editor)
 
-- Chen H.; <strong>Wang X*</strong>*.; Yang B.; Wang S., 2025. Do informal settlements contribute to differences in spatial structure and thermal regimes in urban blocks? <strong>Chinese Geographical Science</strong> (SCI Q2 IF: 3.1 Under Review)
+- Chen H.; <strong>Wang X*</strong>.; Yang B.; Wang S., 2025. Do informal settlements contribute to differences in spatial structure and thermal regimes in urban blocks? <strong>Chinese Geographical Science</strong> (SCI Q2 IF: 3.1 Under Review)
 
 - Wang R.; Zhou L*.; … <strong>Wang X</strong>., 2025. From Flat to Rugged: Systematic Transitions in Land Surface Temperature Drivers of Mountain Cities. <strong>Sustainable Cities and Society</strong> (SCI Q1 Top IF: 12.0 Under Review)
 
@@ -23,9 +23,9 @@
 
 - <strong>Wang X</strong>.; Lopez-Carr D*.; Zhou L*., 2024. Combined Effects of Forest Conservation and Population Resettlement on the Ecological Restoration of Qilian Mountain National Park. <strong>Land</strong> 13, 1983. (SCI Q2 IF: 3.4)[[Paper]](https://doi.org/10.3390/land13121983)
 
-- Huo W., Zhou L., Wang Z., Wang B., Gao F., <strong>Wang X</strong>., Chen Z., 2025. The human settlement of urban villages in a mountainous city of China: in-depth survey, comprehensive evaluation and policy implications. <strong>Habitat International</strong> 166, 103601. (SSCI Q1 Top IF: 7.0)[[Paper]](https://doi.org/https://doi.org/10.1016/j.habitatint.2025.103601)
+- Huo W., Zhou L*., Wang Z., Wang B., Gao F., <strong>Wang X</strong>., Chen Z., 2025. The human settlement of urban villages in a mountainous city of China: in-depth survey, comprehensive evaluation and policy implications. <strong>Habitat International</strong> 166, 103601. (SSCI Q1 Top IF: 7.0)[[Paper]](https://doi.org/https://doi.org/10.1016/j.habitatint.2025.103601)
 
-- Lyu R., Zhou L., Guo Z., Sun Q., Gao H., <strong>Wang X</strong>., 2025. Optimization of urban cooling network informed by actual flow of cooling service provided by urban green space from a 3D perspective. <strong>Urban Forestry & Urban Greening</strong> 113, 129109. (SCI Q1 IF: 6.7)[[Paper]](https://doi.org/https://doi.org/10.1016/j.ufug.2025.129109)
+- Lyu R., Zhou L*., Guo Z., Sun Q., Gao H., <strong>Wang X</strong>., 2025. Optimization of urban cooling network informed by actual flow of cooling service provided by urban green space from a 3D perspective. <strong>Urban Forestry & Urban Greening</strong> 113, 129109. (SCI Q1 IF: 6.7)[[Paper]](https://doi.org/https://doi.org/10.1016/j.ufug.2025.129109)
 
 - Chen Z., Chen H*., Yang M., <strong>Wang X</strong>., Jiang Y., Zhang W., 2023. Heterogeneity and optimization of ecological security pattern on a mountain town: A case of Tianzhu County in the Hexi Corridor, China. <strong>Frontiers in Environmental Science</strong> 10, 1106379. (SCI Q2 IF: 5.4)[[Paper]](https://doi.org/10.3389/fenvs.2022.1106379)
 
@@ -34,4 +34,3 @@
 - Gao H., Dong Y., Zhou L*., <strong>Wang X</strong>., 2025. Identifying critical road sections using the weighted periodicity mined from trajectory data for efficient urban transportation. <strong>GIScience & Remote Sensing</strong> 62, 1. (SCI Q1 Top IF: 7.3)[[Paper]](https://doi.org/10.1080/15481603.2024.2448251)
 
 - Lan J., Chai Z*., Tang X., <strong>Wang X</strong>., 2023. Landscape ecological risk assessment and driving force analysis of the Heihe River Basin in the Zhangye Area of China. <strong>Water</strong> 15, 3588. (SCI Q2 IF: 3.3)[[Paper]](https://doi.org/10.3390/w15143588)
-
