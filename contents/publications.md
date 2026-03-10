@@ -1,14 +1,19 @@
 #### Submitted
 
-- Lyu R.; Zhou L*.; … <strong>Wang X</strong>., 2025. How to optimize urban 3D morphology to enhance cooling spillover effect from urban green space: Insights from Bayesian network. <strong>Urban Climate</strong> (SCI Q1 IF: 6.0 Under Review)
 
 - Zhang Z.; Zhou L*.; … <strong>Wang X</strong>., 2025. A Novel Green Visibility Angle Index for Simulating Urban Green View Index and Assessing Residents' Green Access Equity. <strong>Landscape and Urban Planning</strong> (SCI Q1 IF: 7.9 With Editor)
-
-- Yin H.; Zhou L*.; … <strong>Wang X</strong>., 2025. Modeling block-scale urban vitality: integrating residents' perceptions and service facility accessibility. <strong>Cities</strong> (SSCI Q1 IF: 6.0 With Editor)
 
 - Chen H.; <strong>Wang X*</strong>.; Yang B.; Wang S., 2025. Do informal settlements contribute to differences in spatial structure and thermal regimes in urban blocks? <strong>Chinese Geographical Science</strong> (SCI Q2 IF: 3.1 Under Review)
 
 - Wang R.; Zhou L*.; … <strong>Wang X</strong>., 2025. From Flat to Rugged: Systematic Transitions in Land Surface Temperature Drivers of Mountain Cities. <strong>Sustainable Cities and Society</strong> (SCI Q1 Top IF: 12.0 Under Review)
+
+- Gao H., Zhou L*., <strong>Wang X</strong>., 2026. A novel road network zoning method with integrating urban context and spatial continuity based on the adaptive neighborhood. <strong>International Journal of Applied Earth Observation and Geoinformation</strong>. (SCI Q1 Top IF: 8.6 Under Review)
+
+- Zhang Z., Zhou L*., …, <strong>Wang X</strong>., 2026. A Novel Green Visibility Angle Index for Simulating Urban Green View Index and Assessing Residents' Green Access Equity. <strong>International Journal of Digital Earth</strong>. (SCI Q1 IF: 7.9 With Editor)
+
+- Wang R., Zhou L*., …, <strong>Wang X</strong>., 2026. From Flat to Rugged: Systematic Transitions in Land Surface Temperature Drivers of Mountain Cities. <strong>Sustainable Cities and Society</strong>. (SSCI Q1 IF: 8.3 With Editor)
+
+- Hurynovich V., Zhou L*., Filonchyk M., Chen L., Dong Y., <strong>Wang X</strong>., 2026. Synoptic forcing, long-range transport and radiative impacts of an extreme sand and dust storm over China. <strong>Gondwana Research</strong>. (SCI Q1 Top IF: 7.1 Under Review)
 
 
 #### Published
@@ -34,3 +39,16 @@
 - Gao H., Dong Y., Zhou L*., <strong>Wang X</strong>., 2025. Identifying critical road sections using the weighted periodicity mined from trajectory data for efficient urban transportation. <strong>GIScience & Remote Sensing</strong> 62, 1. (SCI Q1 Top IF: 7.3)[[Paper]](https://doi.org/10.1080/15481603.2024.2448251)
 
 - Lan J., Chai Z*., Tang X., <strong>Wang X</strong>., 2023. Landscape ecological risk assessment and driving force analysis of the Heihe River Basin in the Zhangye Area of China. <strong>Water</strong> 15, 3588. (SCI Q2 IF: 3.3)[[Paper]](https://doi.org/10.3390/w15143588)
+
+- Yin H., Zhou L*., Wang S., Sun Q., <strong>Wang X</strong>., Zhang Z., 2026. Modeling block-scale urban vitality: integrating streetscape perception and service accessibility. <strong>Geo-Spatial Information Science</strong> 1–16. (SCI Q1 IF: 5.5)[[Paper]](https://doi.org/10.1080/10095020.2026.2616557)
+
+- Lyu R., Zhou L*., Guo Z., Sun Q., Gao H., <strong>Wang X</strong>., 2026. A Transferable Modeling Framework for Improving the Cooling Effect of Urban Green Space: Multi-Temporal Sampling, 3D Morphological Reconstruction and Bayesian Network. <strong>Remote Sensing</strong> 18(5), 669. (SCI Q1 IF: 4.1)[[Paper]](https://doi.org/10.3390/rs18050669)
+
+
+#### Monographs, Patents, and Software Copyrights
+
+- Big Earth Data in Support of the Sustainable Development Goals- Special Report for a Decade of the SDGs. SDG 11.7. <strong>Wang Xi<strong>, Zhou Liang. Chinese Academy of Science. 2025.
+
+- 高鸿，周亮，董勇，<strong>王玺<strong>，王少华，王宝. 一种复杂地形对山区居民交通出行限制性的评价方法(ZL 2024 10865674.1). 授权公告号: CN 118798730B. 中国发明专利 2025
+
+- 周亮，章泽之，高鸿，<strong>王玺<strong>，董勇，吴文旭. 基于绿色设施环境特征框架城市绿视率空间分布模拟方法(ZL 2025 1 1366418.9). 授权公告号: CN120873223B. 中国发明专利 2025
