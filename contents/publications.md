@@ -15,6 +15,8 @@
 
 - Hurynovich V., Zhou L*., Filonchyk M., Chen L., Dong Y., <strong>Wang X</strong>., 2026. Synoptic forcing, long-range transport and radiative impacts of an extreme sand and dust storm over China. <strong>Gondwana Research</strong>. (SCI Q1 Top IF: 7.1 Under Review)
 
+- Ding Q., Zhou L*., …, <strong>Wang X</strong>., 2026. Direct and indirect impacts of urbanization on vegetation dynamics in an arid oasis city: A zonal assessment framework.<strong>GIScience & Remote Sensing</strong>. (SCI Q1 IF: 7.3  Top With Editor)
+
 
 #### Published
 
@@ -43,6 +45,8 @@
 - Yin H., Zhou L*., Wang S., Sun Q., <strong>Wang X</strong>., Zhang Z., 2026. Modeling block-scale urban vitality: integrating streetscape perception and service accessibility. <strong>Geo-Spatial Information Science</strong> 1–16. (SCI Q1 IF: 5.5)[[Paper]](https://doi.org/10.1080/10095020.2026.2616557)
 
 - Lyu R., Zhou L*., Guo Z., Sun Q., Gao H., <strong>Wang X</strong>., 2026. A Transferable Modeling Framework for Improving the Cooling Effect of Urban Green Space: Multi-Temporal Sampling, 3D Morphological Reconstruction and Bayesian Network. <strong>Remote Sensing</strong> 18(5), 669. (SCI Q1 IF: 4.1)[[Paper]](https://doi.org/10.3390/rs18050669)
+
+- Ren K., Song Y*., Yang X., <strong>Wang X<strong>., Chen M., & Yu Q.,  2026. Spatial outliers as a pattern determinant for explaining heterogeneity. <strong>International Journal of Geographical Information Science</strong> 18(5), 669. (SCI Q1 Top IF: 5.1)[[Paper]](https://doi.org/10.1080/13658816.2026.2682957)
 
 
 #### Monographs, Patents, and Software Copyrights
