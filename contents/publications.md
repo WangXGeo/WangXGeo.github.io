@@ -46,7 +46,7 @@
 
 - Lyu R., Zhou L*., Guo Z., Sun Q., Gao H., <strong>Wang X</strong>., 2026. A Transferable Modeling Framework for Improving the Cooling Effect of Urban Green Space: Multi-Temporal Sampling, 3D Morphological Reconstruction and Bayesian Network. <strong>Remote Sensing</strong> 18(5), 669. (SCI Q1 IF: 4.1)[[Paper]](https://doi.org/10.3390/rs18050669)
 
-- Ren K., Song Y*., Yang X., <strong>Wang X<strong>., Chen M., & Yu Q.,  2026. Spatial outliers as a pattern determinant for explaining heterogeneity. <strong>International Journal of Geographical Information Science</strong> 18(5), 669. (SCI Q1 Top IF: 5.1)[[Paper]](https://doi.org/10.1080/13658816.2026.2682957)
+- Ren K., Song Y*., Yang X., <strong>Wang X</strong>., Chen M., & Yu Q.,  2026. Spatial outliers as a pattern determinant for explaining heterogeneity. <strong>International Journal of Geographical Information Science</strong> 18(5), 669. (SCI Q1 Top IF: 5.1)[[Paper]](https://doi.org/10.1080/13658816.2026.2682957)
 
 
 #### Monographs, Patents, and Software Copyrights
