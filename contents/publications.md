@@ -52,7 +52,7 @@
 
 #### Monographs, Patents, and Software Copyrights
 
-- Big Earth Data in Support of the Sustainable Development Goals- Special Report for a Decade of the SDGs. SDG 11.7. <strong>Wang Xi<strong>, Zhou Liang. Chinese Academy of Science. 2025.
+- Big Earth Data in Support of the Sustainable Development Goals- Special Report for a Decade of the SDGs. SDG 11.7. <strong>Wang Xi<strong>, Zhou Liang. Chinese Academy of Science. 2025.[[Report]](https://sdgs.un.org/sites/default/files/2025-09/Big%20Earth%20Data%20in%20Support%20of%20the%20Sustainable%20Development%20Goals%20%282025%29%20%E2%80%94%20Special%20Report%20for%20a%20Decade%20of%20the%20SDGs.pdf)
 
 - 高鸿，周亮，董勇，<strong>王玺<strong>，王少华，王宝. 一种复杂地形对山区居民交通出行限制性的评价方法(ZL 2024 10865674.1). 授权公告号: CN 118798730B. 中国发明专利 2025
 
